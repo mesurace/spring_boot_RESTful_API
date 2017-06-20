@@ -13,7 +13,7 @@ import com.disney.studios.model.User;
 import com.disney.studios.model.Vote;
 
 /**
- * Unit tests for the IntegrationTest for ImageController using JUnit.
+ * IntegrationTest for ImageController using JUnit and Mockito.
  * 
  * @author suresh adhikari
  */
