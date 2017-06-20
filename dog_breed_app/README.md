@@ -5,7 +5,7 @@
 
 # Testing
 
-Spring Boot allows to externalize  configuration so we can work with the same application code in different environments.More details [here](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
+Spring Boot allows to externalize  configuration so we can work with the same application code in different environments.More details  about [externalize  configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
 			
 			For Dev, needs to create application-dev.properties
 			For QA, needs to create application-test.properties
