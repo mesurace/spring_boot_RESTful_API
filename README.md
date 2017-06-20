@@ -16,7 +16,7 @@ Used Spring Tool Suit(STS) for IDE.
 	The details associated with a dog picture
 	All responses are in JSON.
   
-  Note: Dependency Injection is highly used, followed OO principles and design patterns (Separation of concerns, Abstraction Polymorphism, 
-        Prefer composition over Inheritance) to make loosely coupled, maintable and testable product. 
+  Note:  	Dependency Injection is highly used, followed OO principles and design patterns (Separation of concerns, Abstraction 
+  		Polymorphism,Prefer composition over Inheritance) to make loosely coupled, maintable and testable product. 
   							
  :) :) :)
