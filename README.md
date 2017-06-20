@@ -2,7 +2,7 @@
 
 This is a cloud friendly production grade RESTful API that could be used to manage a list of dog images.
 
-This project uses Spring Boot framework for development, Maven for builds, JPA/Hibernate for persistence, Spring Data for data access, MySQl  for database.
+This project uses Spring Boot framework for development, Maven for builds, JPA/Hibernate for persistence, Spring Data for data access, MySQL  for database.
 
 Junit and Mockito frameworks are used for Unit and Integration testing.
 
