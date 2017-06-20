@@ -18,4 +18,4 @@ Used Spring Tool Suit(STS) for IDE.
   
   Note: Dependency Injection is highly used, followed OO and design principles (Separation of concerns, Abstraction Polymorphism, Prefer composition over Inheritance) to make loosly coupled, maintable and testable product. 
   							
-								:) :) :) :) :)
+ :) :) :)
