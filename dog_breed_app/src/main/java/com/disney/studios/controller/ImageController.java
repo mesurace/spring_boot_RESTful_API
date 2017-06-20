@@ -19,7 +19,7 @@ import com.disney.studios.service.VoteService;
 
 /**
  * This is the controller for breed images which is mapped with /dogbreedapp uri
- * to call API methods
+ *
  * @author suresh adhikari
  *
  */
