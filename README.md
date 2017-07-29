@@ -38,13 +38,6 @@ For Unit Testing:
 	2. Run the ImageControllerUnitTest class which is inside src/test/java/ folder and 
 	   com.disney.studios.controller package as JUnit 
 
-For Integration testing(in dev environment):
-
-	A. Set up:
-		1. run MySQl
-		2. config the properties in application.properties file. 
-	B. Run as a Spring Boot Project
-	C. Run the ImageControllerIntegrationTest as JUnit Test
 	
 For deployment, 
  
